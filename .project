@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>junit</name>
-			<type>2</type>
-			<location>/Users/tim/Documents/eclipse-workspace/junit</location>
-		</link>
-	</linkedResources>
 </projectDescription>
