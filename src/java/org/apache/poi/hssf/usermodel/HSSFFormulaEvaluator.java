@@ -389,4 +389,8 @@ public class HSSFFormulaEvaluator implements FormulaEvaluator  {
         _bookEvaluator.setIgnoreMissingWorkbooks(ignore);
     }
 
+    /** {@inheritDoc} */
+    public void setDebugEvaluationOutputForNextEval(boolean value){
+        _bookEvaluator.setDebugEvaluationOutputForNextEval(value);
+    }
 }
